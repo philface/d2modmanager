@@ -8,7 +8,7 @@ Here is a video showing installation and usage: http://a.pomf.se/ossjdv.webm
 # Installation
 1. Make a backup copy of gameinfo.txt in YourSteampath\Dota 2 beta\dota
 
-2. Download d2modmanager, extract dota, modmanager and custom to YourSteampath\Dota 2 beta
+2. Download d2modmanager, extract the folders "dota", "modmanager" and "custom" to YourSteampath\Dota 2 beta
 
 It should ask you to override gameinfo.txt (remember the backup). Confirm.
 
