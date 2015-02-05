@@ -1,7 +1,6 @@
 # d2modmanager
 dota 2 mod manager without vpk injection
-
-
+Here is a video showing installation and usage: http://a.pomf.se/ossjdv.webm
 
 ### !! enable_addons should still be in your launch options, or ability icons might not get changed !!
 
