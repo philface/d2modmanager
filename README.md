@@ -3,18 +3,18 @@ dota 2 mod manager without vpk injection
 
 Here is a video showing installation and usage: http://a.pomf.se/ossjdv.webm
 
-### !! enable_addons should still be in your launch options, or ability icons might not get changed !!
+### !! *enable_addons* should still be in your launch options, or ability icons might not get changed !!
 
 # Installation
-1. Make a backup copy of gameinfo.txt in YourSteampath\Dota 2 beta\dota
+1. Make a backup copy of gameinfo.txt in *YourSteampath\Dota 2 beta\dota*
 
-2. Download d2modmanager, extract the folders "dota", "modmanager" and "custom" to YourSteampath\Dota 2 beta
+2. Download d2modmanager, extract the folders "dota", "modmanager" and "custom" to *YourSteampath\Dota 2 beta*
 
 It should ask you to override gameinfo.txt (remember the backup). Confirm.
 
-3. You need Node.JS installed (http://nodejs.org/)
+3. You need Node.JS installed ( http://nodejs.org/ )
 
-4. Open a CMD prompt in YourSteampath\Dota 2 beta\modmanager
+4. Open a CMD prompt in *YourSteampath\Dota 2 beta\modmanager*
 
 5. type "npm install" to install the needed libraries
 
