@@ -146,6 +146,10 @@ program
   .description('Adds a folder as a new mod')
   .action(function(env){
     console.log('installing "%s"', env);
+	if (modlist.indexOf(env) != -1) {
+		console.log(chalk.red('ERROR:') + " this mod already exists");
+		process.exit() 
+	}
 	var questions = [
 	  {
 		type: "input",
